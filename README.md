@@ -83,7 +83,6 @@ Config-Validator-CLI validate config.yaml --schema schema.json
 | Flag             | Description                              |
 |------------------|------------------------------------------|
 | `--recursive`     | Scan directories recursively             |
-| `--schema`        | Path to schema definition file           |
 | `--format`        | Output format: `json`, `yaml`, `table`  |
 | `--ignore-errors` | Continue validation despite errors       |
 | `--strict`        | Fail on unknown fields                   |
